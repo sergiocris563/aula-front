@@ -1,11 +1,15 @@
 /* TAG */
 article {
-    background-color: lightcya;
+    background-color: lightcyan;
 }
 /* classe */
 .fonte {
-    font-family: 'Courier new', Courier, monospace;
+    font-family: 'Courier new', 'Courier', 'monospace';
     font-size: 12px;o
+}
+.corfundo {
+    background-color: red;
+    font-size: 50px;
 }
 /* id somente UM */
 #id2 {
