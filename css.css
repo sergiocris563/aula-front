@@ -1,10 +1,10 @@
-TAG
+/* TAG */
 article {
     background-color: lightcya;
 }
 /* classe */
 .fonte {
-    font-family: 'Courier new', Courier, monospace
+    font-family: 'Courier new', Courier, monospace;
     font-size: 12px;o
 }
 /* id somente UM */
